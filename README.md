@@ -27,7 +27,7 @@ Tool used: oracle sql developer
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%205%20switch%20to%20pdb.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/SNIPE%206%20CREATE%20USER.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%209%20%20verify%20user%20creation.PNG)
-![image alt](
+![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2010%20%20switch%20to%20cdb.PNG)
 ## TASK 2: Create and Delete Temporary PDB
 
 ### Temporary PDB Details
