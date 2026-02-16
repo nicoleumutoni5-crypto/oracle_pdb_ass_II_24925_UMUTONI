@@ -1,2 +1,28 @@
 # oracle_pdb_ass_II_24925_UMUTONI
 Oracle PDB Assignment II
+# oracle environment
+oracle version: oracle database 21c
+operating system: window 11
+CDB name: ORCL
+Tool used: oracle sql developer
+
+# TASK 1: Create main pluggable database
+### PDB Details
+- *PDB Name*: um_pdb_24925
+- *Admin User*: pdbadmin
+- *Application User*: umutoni_plsqlauca_24925
+- *status*:successfully created and opened
+
+### Steps Performed
+1. Connected to CDB as SYSDBA using SQL Developer
+2. Created pluggable database with specified naming convention
+3. Opened the PDB
+4. Switched session to the new PDB
+5. Created application user with required privileges
+6. Verified user creation
+
+### Screenshots
+![image alt](
+![image alt](
+![image alt](
+![image alt](
