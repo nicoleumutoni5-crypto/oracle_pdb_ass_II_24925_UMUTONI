@@ -22,7 +22,7 @@ Tool used: oracle sql developer
 6. Verified user creation
 
 ### Screenshots
-![image alt](
+![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe2%20create%20pdb.PNG)
 ![image alt](
 ![image alt](
 ![image alt](
