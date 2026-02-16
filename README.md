@@ -47,7 +47,7 @@ Tool used: oracle sql developer
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2013%20part%202%20verify%20it%20exists.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/SNIPE%20%2015%20part%202%20delete%20temp%20pdb.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2016%20part%202%20confirm%20deletion.PNG)
-![image alt](
+
 ## TASK 3: Oracle Enterprise Manager
 
 ### OEM Access
@@ -62,9 +62,9 @@ Tool used: oracle sql developer
 5. Verified PDB configuration in dashboard
 
 ### Screenshots
+![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2017%20part%203%20%20find%20oem%20url.PNG)
 ![image alt](
 ![image alt](
-
 
 ## Key points covered
 1. Understanding Oracle Multitenant Architecture
