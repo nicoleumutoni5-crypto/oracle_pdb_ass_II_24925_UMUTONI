@@ -66,7 +66,7 @@ Tool used: oracle sql developer
 ### Screenshots
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2017%20part%203%20%20find%20oem%20url.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2018%20part%203.PNG)
-![image alt](
+![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2019%20part%203.PNG)
 
 ## Key points covered
 1. Understanding Oracle Multitenant Architecture
