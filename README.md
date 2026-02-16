@@ -43,6 +43,6 @@ Tool used: oracle sql developer
 
 ### Screenshots
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2011%20part%202%20create%20temp%20pdb.PNG)
-![image alt](
+![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2013%20part%202%20verify%20it%20exists.PNG)
 ![image alt](
 ![image alt](
