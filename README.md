@@ -6,7 +6,7 @@ operating system: window 11
 CDB name: ORCL
 Tool used: oracle sql developer
 
-# TASK 1: Create main pluggable database
+## TASK 1: Create main pluggable database
 ### PDB Details
 - *PDB Name*: um_pdb_24925
 - *Admin User*: pdbadmin
@@ -27,7 +27,7 @@ Tool used: oracle sql developer
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/SNIPE%206%20CREATE%20USER.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%209%20%20verify%20user%20creation.PNG)
 
-## Task 2: Create and Delete Temporary PDB
+## TASK 2: Create and Delete Temporary PDB
 
 ### Temporary PDB Details
 - *PDB Name*: um_to_delete_pdb_24925
@@ -46,3 +46,27 @@ Tool used: oracle sql developer
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2013%20part%202%20verify%20it%20exists.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/SNIPE%20%2015%20part%202%20delete%20temp%20pdb.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2016%20part%202%20confirm%20deletion.PNG)
+
+## TASK 3: Oracle Enterprise Manager
+
+### OEM Access
+- *URL*: https://localhost:5500/em
+- *Status*: Successfully Accessed
+
+### Steps Performed
+1. Retrieved OEM HTTPS port from database
+2. Accessed OEM via web browser
+3. Logged in as SYSDBA
+4. Navigated to Pluggable Databases section
+5. Verified PDB configuration in dashboard
+
+### Screenshots
+
+
+## Key points covered
+1. Understanding Oracle Multitenant Architecture
+2. PDB lifecycle management (create, open, close, drop)
+3. User management within PDBs
+4. Working with Oracle Enterprise Manager
+5. Importance of following naming conventions in database administration
+
