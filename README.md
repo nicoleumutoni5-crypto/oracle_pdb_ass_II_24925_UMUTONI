@@ -24,9 +24,10 @@ Tool used: oracle sql developer
 ### Screenshots
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe2%20create%20pdb.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%204%20%20verify%20pdb%20is%20open.PNG)
+![image alt](
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/SNIPE%206%20CREATE%20USER.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%209%20%20verify%20user%20creation.PNG)
-
+![image alt](
 ## TASK 2: Create and Delete Temporary PDB
 
 ### Temporary PDB Details
@@ -46,7 +47,7 @@ Tool used: oracle sql developer
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2013%20part%202%20verify%20it%20exists.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/SNIPE%20%2015%20part%202%20delete%20temp%20pdb.PNG)
 ![image alt](https://github.com/nicoleumutoni5-crypto/oracle_pdb_ass_II_24925_UMUTONI/blob/main/snipe%2016%20part%202%20confirm%20deletion.PNG)
-
+![image alt](
 ## TASK 3: Oracle Enterprise Manager
 
 ### OEM Access
@@ -61,6 +62,8 @@ Tool used: oracle sql developer
 5. Verified PDB configuration in dashboard
 
 ### Screenshots
+![image alt](
+![image alt](
 
 
 ## Key points covered
